@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Development
 - 📫 Reach me:
 -     rayhona.dev@anur.tj
--     +992-918-54-6202
+-     +992-99-022-24-04
 
 <!---
 dev-Rayhona/dev-Rayhona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
